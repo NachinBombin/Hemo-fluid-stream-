@@ -1,0 +1,16 @@
+{
+  "title": "多汁流血效果 Juicy Bleeding Effect",
+  "type": "effects",
+  "tags": [
+    "fun",
+    "movie",
+    "realism"
+  ],
+  "ignore": [
+    ".gitattributes",
+    ".md",
+    ".venv/*",
+    "src/*",
+    "data/*"
+  ]
+}
