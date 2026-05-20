@@ -1,0 +1,19 @@
+{
+  "title": "GRope | tool mod",
+  "type": "tool",
+  "tags": [
+    "realism",
+    "build",
+    "fun"
+  ],
+  "ignore": [
+    "generator_quantum_spark_d.tga",
+    "generator_quantum_spark_e.tga",
+    "generator_quantum_spark_emission.tga",
+    "generator_quantum_spark_n.tga",
+    "*.smd",
+    "*.qci",
+    "*.txt",
+    "*.qc"
+  ]
+}
